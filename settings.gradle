@@ -1,0 +1,1 @@
+include ':app', ':buttondemo', ':tabledemo', ':checkboxradio', ':radiocheckbox', ':alert_dialog', ':alert_dialog', ':alert_dialog', ':alert_dialog', ':alert_dialog', ':activity_module', ':toast_demo'

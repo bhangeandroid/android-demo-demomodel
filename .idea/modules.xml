@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/291118MyApplication.iml" filepath="$PROJECT_DIR$/291118MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_module/activity_module.iml" filepath="$PROJECT_DIR$/activity_module/activity_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alert_dialog/alert_dialog.iml" filepath="$PROJECT_DIR$/alert_dialog/alert_dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buttondemo/buttondemo.iml" filepath="$PROJECT_DIR$/buttondemo/buttondemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkboxradio/checkboxradio.iml" filepath="$PROJECT_DIR$/checkboxradio/checkboxradio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radiocheckbox/radiocheckbox.iml" filepath="$PROJECT_DIR$/radiocheckbox/radiocheckbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabledemo/tabledemo.iml" filepath="$PROJECT_DIR$/tabledemo/tabledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toast_demo/toast_demo.iml" filepath="$PROJECT_DIR$/toast_demo/toast_demo.iml" />
+    </modules>
+  </component>
+</project>
